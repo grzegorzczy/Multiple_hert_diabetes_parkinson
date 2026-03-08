@@ -1,0 +1,2 @@
+najpierw wchodzimy do tego folderu - czyli cd "ścieżka" potem w tym dajemy 
+streamlit run multiple_prediction.py - czyli już uruchomienie teog na streamlit
